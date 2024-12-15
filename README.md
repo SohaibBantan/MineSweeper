@@ -10,6 +10,7 @@ Flag Placement: Allows players to strategically mark suspected mine locations.
 Debug Mode: Reveals the entire minefield, enabling players to view the behind-the-scenes state of the grid.
 Advanced Logic: Implements intelligent area revealing for zero-value cells and efficient mine placement that avoids the starting position.
 Interactive Console UI: Engages users with prompts for inputs and real-time game status updates.
+
 🏁 Getting Started
 Prerequisites
 Java Development Kit (JDK) version 8 or later.
